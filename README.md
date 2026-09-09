@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**REDSI: Addressing the Reproducibility and Evaluation Consistency of Differentiable Search Indexing for Document Retrieval**|Vivien Nicolas et.al.|[2609.08860](http://arxiv.org/abs/2609.08860)|null|
 |**2026-08-20**|**Unified Music Identification for Tracks and Versions**|R. Oguz Araz et.al.|[2608.19919](http://arxiv.org/abs/2608.19919)|null|
 |**2026-08-05**|**Towards Robust Version Identification in the Wild: A Dataset, Benchmark, and Fine-Tuning Study**|Simon Hachmeier et.al.|[2608.04543](http://arxiv.org/abs/2608.04543)|null|
 |**2026-01-16**|**Scalable Music Cover Retrieval Using Lyrics-Aligned Audio Embeddings**|Joanne Affolter et.al.|[2601.11262](http://arxiv.org/abs/2601.11262)|null|
